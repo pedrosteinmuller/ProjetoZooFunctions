@@ -1,7 +1,11 @@
-const data = require('../data/zoo_data');
+// const data = require('../data/zoo_data');
+// const { hours, species } = require('../data/zoo_data');
 
-function getSchedule(scheduleTarget) {
-  // seu código aqui
-}
+// const days = Object.keys(hours);
+// const hour = Object.values(hours)
 
-module.exports = getSchedule;
+// const getSchedule = (scheduleTarget) => {
+//  return data.species.find((item) => item.name === scheduleTarget).availability
+//   if (!scheduleTarget)
+// }
+// module.exports = getSchedule;
